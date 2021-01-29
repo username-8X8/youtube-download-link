@@ -8,8 +8,8 @@
     "test": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "username-8X8",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "prompt-sync": "^4.2.0"
